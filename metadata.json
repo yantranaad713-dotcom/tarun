@@ -1,0 +1,6 @@
+{
+  "name": "NaadPath — Your Personalized Sound Wellness Guide",
+  "description": "Discover your ideal sound vibrational healing and wellness experience with Yantra Naad. Personalized recommendations for sound baths, meditation, and relaxation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
